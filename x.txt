@@ -1,0 +1,1 @@
+[{"claimid":6098617,"fraud_class":"1"},{"claimid":6098716,"fraud_class":"1"},{"claimid":6098755,"fraud_class":"1"},{"claimid":6098839,"fraud_class":"1"},{"claimid":6098864,"fraud_class":"1"}]

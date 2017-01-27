@@ -1,0 +1,27 @@
+ScoringData.csv,,,,,
+,,missing/0,lower,upper,inModel
+claimlodgemethod,factor,Phone,,,
+claimlosscause,factor,Damage Whilst Driven,,,
+claimlossstate,factor,NSW,,,
+flag_claimfirenotified,factor,No,,,
+flag_claimpolicenotified,factor,No,,,
+flag_motorrepairshop,factor,0,,,
+flag_salvageservice,factor,0,,,
+flag_towingagency,factor,0,,,1
+ivehicledriverage,,33.6,16,Inf,1
+ivehicleyear,,2005,-100,Inf,1
+fraud_class,factor,,,,2
+ListedDriver,factor,,,,1
+Interestedparty,factor,,,,1
+claim_lag_losslodge,,,,,1
+claim_lag_lossinception,,,,,1
+claimexcesstotal,,,,,1
+riskmotorpurchaseprice,,,,,1
+risksuminsured,,,,,1
+tpvehicledamage,factor,No,,,1
+MotorRepairShop,factor,,,,1
+TowingAgency,factor,,,,1
+policypremiumbilling,factor,Monthly,,,
+policychannel,factor,DIRECT,,,
+policybrand,factor,AAMI,,,
+claimid,,,,,
